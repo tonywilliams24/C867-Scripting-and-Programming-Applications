@@ -5,12 +5,10 @@ Final Project for Western Governors University class "Scripting and Programming 
 My First Object Oriented Programming Project (written in C++)
 
 Evaluator Comments:
-
-"C++ skill is evident and the functions are developed to process the data from the array studentData[] with the Williams details. Accessors are developed to handle the instance variables. Tab-formatted output is effective from print(). Validation of the email addresses is included with all three conditions. The subclasses are present to handle the differentiated data for network, software, and security degrees. Additional feedback is provided within the rubric. Good job on the C++ coding for the assessment."
+ - "C++ skill is evident and the functions are developed to process the data from the array studentData[] with the Williams details. Accessors are developed to handle the instance variables. Tab-formatted output is effective from print(). Validation of the email addresses is included with all three conditions. The subclasses are present to handle the differentiated data for network, software, and security degrees. Additional feedback is provided within the rubric. Good job on the C++ coding for the assessment."
 
 Task:
-
-You must write a program containing five classes (i.e.,  Student , SecurityStudent , NetworkStudent , SoftwareStudent , and  Roster ). The program will maintain a current roster of students within a given course. Student data for the program includes student ID, first name, last name, email address, age, an array of the number of days to complete each course, and degree. This information can be found in the studentData table below. The program will read a list of five students and use function calls to manipulate data (see part F4 in the requirements below). While parsing the list of data, the program should create student objects using the appropriate subclasses indicated by the degree program. The entire student list will be stored in one array of students called  classRosterArray Specific data-related output will be directed to the console. 
+ - You must write a program containing five classes (i.e.,  Student , SecurityStudent , NetworkStudent , SoftwareStudent , and  Roster ). The program will maintain a current roster of students within a given course. Student data for the program includes student ID, first name, last name, email address, age, an array of the number of days to complete each course, and degree. This information can be found in the studentData table below. The program will read a list of five students and use function calls to manipulate data (see part F4 in the requirements below). While parsing the list of data, the program should create student objects using the appropriate subclasses indicated by the degree program. The entire student list will be stored in one array of students called  classRosterArray Specific data-related output will be directed to the console. 
 
 Overall Course Competencies:
 
