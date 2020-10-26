@@ -14,14 +14,14 @@ Overall Course Competencies:
  - Introduction to Programming:
    - The graduate applies fundamental programming concepts in a specific programming environment.
  - Variables and Data Types:
-  - The graduate prepares code which declares, initializes, and assigns values to variables of appropriate types as part of the application development process.
+   - The graduate prepares code which declares, initializes, and assigns values to variables of appropriate types as part of the application development process.
  - Control Structures:
-  - The graduate writes code that implements decision and loop constructs to control the flow of a program.
+   - The graduate writes code that implements decision and loop constructs to control the flow of a program.
  - Arrays:
-  - The graduate creates arrays in order to solve complex problems.
+   - The graduate creates arrays in order to solve complex problems.
  - Pointers and Memory:
-  - The graduate applies pointers to solve complex problems.
+   - The graduate applies pointers to solve complex problems.
  - Functions:
-  - The graduate writes code that creates and manipulates functions and files.
+   - The graduate writes code that creates and manipulates functions and files.
  - Object-Oriented Paradigm:
-  - The graduate applies object-oriented programming concepts in order to create a basic application.
+   - The graduate applies object-oriented programming concepts in order to create a basic application.
