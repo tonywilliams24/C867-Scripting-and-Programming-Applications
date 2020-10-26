@@ -12,7 +12,7 @@ Task:
 
 Overall Course Competencies:
  - Introduction to Programming:
-  - The graduate applies fundamental programming concepts in a specific programming environment.
+   - The graduate applies fundamental programming concepts in a specific programming environment.
  - Variables and Data Types:
   - The graduate prepares code which declares, initializes, and assigns values to variables of appropriate types as part of the application development process.
  - Control Structures:
