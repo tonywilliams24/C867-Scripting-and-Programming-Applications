@@ -25,3 +25,7 @@ Overall Course Competencies:
    - The graduate writes code that creates and manipulates functions and files.
  - Object-Oriented Paradigm:
    - The graduate applies object-oriented programming concepts in order to create a basic application.
+
+For Detailed Project Description and Evaluation, Please See:
+ - https://github.com/tonywilliams24/Scripting-and-Programing-Applications-Final-Project/blob/master/Project-Information-and-Evaluation/Project-Requirements.pdf
+ - https://github.com/tonywilliams24/Scripting-and-Programing-Applications-Final-Project/blob/master/Project-Information-and-Evaluation/Evaluation-Report.pdf
