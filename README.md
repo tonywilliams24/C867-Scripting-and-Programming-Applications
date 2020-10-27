@@ -1,4 +1,4 @@
-# Scripting-and-Programing-Applications-Final-Project
+# Scripting and Programing Applications Final Project
 
 Final Project for Western Governors University class "Scripting and Programming Applications"
 
